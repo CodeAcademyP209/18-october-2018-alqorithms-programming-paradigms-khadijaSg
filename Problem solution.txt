@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>24</title>
+	</head>
+		<body>
+			<table height="90" width="100%" bgcolor="#A1A1A1" bordercolor="white" border="10"  >
+				<tr>
+				</tr>
+			</table>
+				<table
+					height="50" width="100%" bgcolor="#A6A6A6" bordercolor="white" border="10">
+					<tr> </tr>	
+				</table>
+					<table 
+						align="left" height="500" width="30%" bgcolor="#A3A3A3" bordercolor="white" border="10">
+						<tr></tr>	
+					</table>
+						<table  height="500" width="70%" bgcolor="#A3A3A3" bordercolor="white" border="10">
+						<tr></tr>
+						<tr width="70%" height="100" border="4">
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+
+						</table>
+			<table height="120" width="100%" bgcolor="#A1A1A1" bordercolor="white" border="10"  >
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>			
+			<table height="120" width="100%" bgcolor="#A1A1A1" bordercolor="white" border="10"  >
+				<tr>
+				</tr>
+				
+			</table>
+			<table height="120" width="100%" bgcolor="#A1A1A1" bordercolor="white" border="10"  >
+				<tr>
+					<td></td>
+					<td></td>
+				</tr>
+			<table height="120" width="100%" bgcolor="#A1A1A1" bordercolor="white" border="10"  >
+				<tr>
+				</tr>
+
+			</table>	
+
+				
+			</table>
+
+
+
+		</body>
+</html> 
